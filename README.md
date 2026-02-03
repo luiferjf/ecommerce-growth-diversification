@@ -17,6 +17,7 @@ In 2022, the portfolio achieved **$861,952 in Net Revenue** across 5,651 orders.
 ---
 
 ## 💼 Business Insights & Deep Dive
+📄 **See full analysis:** [Read the detailed Business Memo & Recommendations](/docs/business_memo.md)
 
 ### 1. Growth Strategy: Volume vs. Price
 The **Revenue Bridge Analysis** (bottom left) isolates the impact of Volume vs. Price.
